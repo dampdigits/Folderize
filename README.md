@@ -24,12 +24,12 @@ And suppose you want those files except newman.rtf to be in folders with their r
 
 Open a terminal and navigate to the directory where folderize.sh is located.
 
-![Screenshot 2023-07-25 230713](https://github.com/its-triple-s/Folderize/assets/113439449/6e0ca479-cbc6-48f9-8013-28c0960141e5)
+![aljds](https://github.com/its-triple-s/Folderize/assets/113439449/150d6f4c-84ee-442f-8fa2-4ca2f0acf53b)
 
 Run the bash program by typing ./folderize.sh D:/Sam/coding/source D:/Sam/coding/destination txt pptx bmp
 ### NOTE: Windows directories use '\\' which must be replaced by '/'
 
-![Screenshot 2023-07-25 231946](https://github.com/its-triple-s/Folderize/assets/113439449/48294d15-abbb-42bf-9465-70fcd4eeaf05)
+![ppppp](https://github.com/its-triple-s/Folderize/assets/113439449/3d2024f7-5b7c-4c4b-b7dc-5cd87bbec68d)
 
 All files with specified extensions were moved from the source directory
 
