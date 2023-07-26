@@ -16,28 +16,28 @@
 
 Suppose you have the following files in the directory D:\Sam\coding\source
 
-![Screenshot 2023-07-25 230020](https://github.com/its-triple-s/shabang/assets/113439449/51ccff72-954f-4f99-bee8-c968fcab5fff)
+![Screenshot 2023-07-25 230020](https://github.com/its-triple-s/Folderize/assets/113439449/fb7260c3-8a41-4279-a2be-92ef6d26c3ea)
 
 And suppose you want those files except newman.rtf to be in folders with their respective names in the directory D:\Sam\coding\destination
 
-![Screenshot 2023-07-25 230338](https://github.com/its-triple-s/shabang/assets/113439449/eae8675b-afa4-4f89-8b58-f58c5df0113d)
+![Screenshot 2023-07-25 230338](https://github.com/its-triple-s/Folderize/assets/113439449/ef268fe7-ef9c-4a9d-99d8-4176627877be)
 
 Open a terminal and navigate to the directory where organize.sh is located.
 
-![Screenshot 2023-07-25 230713](https://github.com/its-triple-s/shabang/assets/113439449/490845c7-0679-454f-998c-644cee5cf906)
+![Screenshot 2023-07-25 230713](https://github.com/its-triple-s/Folderize/assets/113439449/6e0ca479-cbc6-48f9-8013-28c0960141e5)
 
 Run the bash program by typing ./organize.sh D:/Sam/coding/source D:/Sam/coding/destination txt pptx bmp
 ### NOTE: Windows directories use '\\' which must be replaced by '/'
 
-![Screenshot 2023-07-25 231946](https://github.com/its-triple-s/shabang/assets/113439449/17645694-2070-4094-93c7-1b4ed34c6e2c)
+![Screenshot 2023-07-25 231946](https://github.com/its-triple-s/Folderize/assets/113439449/48294d15-abbb-42bf-9465-70fcd4eeaf05)
 
 All files with specified extensions were moved from the source directory
 
-![Screenshot 2023-07-25 232115](https://github.com/its-triple-s/shabang/assets/113439449/7bb3ee61-02bd-4cf5-8c0d-76378e8d077c)
+![Screenshot 2023-07-25 232115](https://github.com/its-triple-s/Folderize/assets/113439449/d72dd1c5-162b-4464-b034-2f5c5d5ae06d)
 
 Each file of specified extension was moved into a folder with its respective name.
 
-![Screenshot 2023-07-25 232340](https://github.com/its-triple-s/shabang/assets/113439449/75616b7d-0471-4d57-84eb-bb98067a296c)
+![Screenshot 2023-07-25 232340](https://github.com/its-triple-s/Folderize/assets/113439449/f0669e76-5a91-44d8-90dc-94f1fd3d3cb0)
 
 ## License
 
