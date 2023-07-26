@@ -1,4 +1,4 @@
-# Organize
+# Folderize
 
 ## About
 
@@ -8,9 +8,9 @@
 
 ## Usage
 
-- Download the organize.sh script from this repository.
-- Navigate to the directory where organize.sh is located.
-- In a terminal run the program by typing ./organize.sh /path/to/src /path/to/dest [extension1] [extension2] [extension3]
+- Download the folderize.sh script from this repository.
+- Navigate to the directory where folderize.sh is located.
+- In a terminal run the program by typing ./folderize.sh /path/to/src /path/to/dest [extension1] [extension2] [extension3]
 
 ## Example
 
@@ -22,11 +22,11 @@ And suppose you want those files except newman.rtf to be in folders with their r
 
 ![Screenshot 2023-07-25 230338](https://github.com/its-triple-s/Folderize/assets/113439449/ef268fe7-ef9c-4a9d-99d8-4176627877be)
 
-Open a terminal and navigate to the directory where organize.sh is located.
+Open a terminal and navigate to the directory where folderize.sh is located.
 
 ![Screenshot 2023-07-25 230713](https://github.com/its-triple-s/Folderize/assets/113439449/6e0ca479-cbc6-48f9-8013-28c0960141e5)
 
-Run the bash program by typing ./organize.sh D:/Sam/coding/source D:/Sam/coding/destination txt pptx bmp
+Run the bash program by typing ./folderize.sh D:/Sam/coding/source D:/Sam/coding/destination txt pptx bmp
 ### NOTE: Windows directories use '\\' which must be replaced by '/'
 
 ![Screenshot 2023-07-25 231946](https://github.com/its-triple-s/Folderize/assets/113439449/48294d15-abbb-42bf-9465-70fcd4eeaf05)
