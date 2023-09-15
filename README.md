@@ -49,4 +49,4 @@ I'd appreciate improvements, feel free to open an issue or submit a pull request
 
 ## Author
 
-Sk. Sameer Salam [@its-triple-s](https://github.com/its-triple-s)
+Sk. Sameer Salam [@sksameersalam](https://github.com/sksameersalam)
